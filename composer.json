@@ -14,5 +14,5 @@
         "Psr\\Event\\": "src/Psr/Event"
       }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
 }
