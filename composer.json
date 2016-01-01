@@ -1,0 +1,18 @@
+{
+    "name": "jakulov/event_d",
+    "description": "Event Interfaces from Symfony Event Dispatcher Component",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yakov Akulov",
+            "email": "jakulov@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Psr\\Event\\": "src/Psr/Event"
+      }
+    },
+    "minimum-stability": "dev",
+}
