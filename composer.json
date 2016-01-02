@@ -1,5 +1,5 @@
 {
-    "name": "jakulov/event_d",
+    "name": "jakulov/psr_event",
     "description": "Event Interfaces from Symfony Event Dispatcher Component",
     "type": "library",
     "license": "MIT",
